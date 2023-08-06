@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "e3a994d82e644b03a792a930f574002658412f62407f5fee083f2555c5f23118"
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "eb6cb8a8cde5c16bfe3c1f14353f362bc857621a9703579ff9aac154c8c975e9"
 metafile = true
