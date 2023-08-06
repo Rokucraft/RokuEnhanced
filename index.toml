@@ -26,6 +26,16 @@ hash = "d553629aabc1e4d6730d5e9206805143622c38a06ac206ecb7caf816ad7689b3"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "c2814d761fc227d78759c88c38b37b3985fe4a36d18520a333965a1a9a601c2d"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "bb04c42ce6f65cf6a6ef7c24ee6ed956370300d6a1ab6bf0c3b221b6a2e7f034"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "012a895c6e6def9eccf33ca2296466a6f062f4587016c465c962fa8de2869ced"
 metafile = true
@@ -33,6 +43,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "cf6adf4f1a4e8f56e592805ea37d1120b42ab5389da6f423040639cb229f48d0"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "1127e53daa00cc93cc47e9226012c7121e9f44e83bc269b64699e8ac4894957c"
 metafile = true
 
 [[files]]
