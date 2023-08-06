@@ -1,6 +1,6 @@
 name = "RokuEnhanced"
 author = "Aikovdp"
-version = "1.0.0-alpha.3"
+version = "1.0.0-alpha.3+1.20.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
