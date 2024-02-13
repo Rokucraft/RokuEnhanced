@@ -1,13 +1,13 @@
 name = "RokuEnhanced"
 author = "Aikovdp"
-version = "1.0.0-alpha.3+1.20.1"
+version = "1.0.0-alpha.3+1.20.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3fe670423d842871501ba4c2cd09da48bdf46513a1cb68c83af2647b7c6266ea"
+hash = "04a7423d783db44b454b508d53aebab5fa510206a4fbe454a6f5a9cccd1e9c2b"
 
 [versions]
-fabric = "0.14.22"
-minecraft = "1.20.1"
+fabric = "0.15.7"
+minecraft = "1.20.4"
